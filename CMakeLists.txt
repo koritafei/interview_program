@@ -8,3 +8,4 @@ set(CMAKE_CXX_VERSION 11)
 
 add_subdirectory(stacks)
 add_subdirectory(tree)
+add_subdirectory(search)
